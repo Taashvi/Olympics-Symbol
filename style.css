@@ -1,0 +1,17 @@
+body{
+    background-image:url(olympics_GettyImages-51166678.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background-color: rgb(255, 255, 255);
+    width:310px;
+    border-color:black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#myCanvas{
+    background-color: white;
+    border-color:black;
+    border-width:7px;
+    border-style:ridge;
+}
